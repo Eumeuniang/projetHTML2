@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lamis>
+    <robes>
+        <robe saison="été" couleur="rose"/>
+        <robe saison="été" couleur="verte"/>
+        <robe saison="hiver" couleur="bleue"/>
+    </robes>
+    <pantalons>
+        <pantalon saison="été" couleur="blanc"/>
+        <pantalon saison="hiver" couleur="beige"/>
+    </pantalons>
+</lamis>
